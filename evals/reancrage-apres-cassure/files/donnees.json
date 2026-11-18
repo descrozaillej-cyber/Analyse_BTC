@@ -1,0 +1,110 @@
+{
+ "sma200_source": "CoinMarketCap get_crypto_technical_analysis id 1",
+ "mvrv_seuils": {
+  "p20": 1.234,
+  "p80": 2.219,
+  "source": "BTC_v5.md, Coin Metrics mai 2022 - mai 2026"
+ },
+ "situation": {
+  "montant_base_dca": "non fixé",
+  "fonds_de_securite": "non constitué",
+  "journal": "vide, aucun trade ouvert"
+ },
+ "notionnel_test_eur": 100,
+ "date": "2026-11-17",
+ "heure_releve": "07:00 UTC",
+ "releve_usd": 62650.0,
+ "releve_source": "Crypto.com bougie 1h BTC_USDT close 07:00 UTC, CoinGecko 62 610 (07:03 UTC)",
+ "releve_veille_usd": 64180.0,
+ "clotures_quotidiennes_usd_du_25_09_au_16_11": [
+  84103.13,
+  84435.1,
+  84480.58,
+  83497.82,
+  83657.79,
+  83621.59,
+  84876.2,
+  84519.0,
+  84763.62,
+  86519.99,
+  85757.01,
+  85544.27,
+  83325.35,
+  81747.82,
+  82624.26,
+  82984.89,
+  83764.37,
+  81837.78,
+  83180.66,
+  81677.16,
+  82228.21,
+  81611.01,
+  81494.61,
+  82107.18,
+  81943.99,
+  83027.36,
+  84101.96,
+  81425.99,
+  81190.05,
+  80877.0,
+  80148.0,
+  80143.58,
+  80906.28,
+  81351.41,
+  77976.96,
+  77314.18,
+  77530.55,
+  78346.24,
+  76807.53,
+  77452.93,
+  80512.26,
+  76093.97,
+  75848.19,
+  75872.99,
+  74854.99,
+  75361.37,
+  73793.96,
+  74009.22,
+  71459.99,
+  69059.52,
+  66400.0,
+  64100.0,
+  62800.0
+ ],
+ "sma200": 72710.0,
+ "mvrv": {
+  "valeur": 1.16,
+  "date": "2026-11-16",
+  "source": "axeladlerjr.com"
+ },
+ "btc_eur": 56950.0,
+ "jeu_actif": {
+  "fichier": "2026-11-13_reancrage.md",
+  "emis": "2026-11-13",
+  "echeance": "2026-11-20",
+  "A": "relevés 65-72k, 45 %",
+  "B": "relevé au-dessus de 72k, cible 74k, 30 %",
+  "C": "relevé sous 65k, cible 62-63k puis 59,5-60k, 25 %"
+ },
+ "releves_08h_precedents": {
+  "2026-11-14": 69071.96,
+  "2026-11-15": 66520.0,
+  "2026-11-16": 64180.0
+ },
+ "structure_connue": {
+  "plus_bas_2026": "environ 59,5k (juin-août 2026)",
+  "range_juin_aout": "59,5-65k",
+  "consolidation_fevrier_avril": "65-71k",
+  "sma200": 72710
+ },
+ "evenements": [
+  {
+   "evenement": "Résultats Nvidia",
+   "date": "2026-11-17 21:20 UTC"
+  },
+  {
+   "evenement": "Minutes FOMC",
+   "date": "2026-11-18 19:00 UTC"
+  }
+ ]
+}

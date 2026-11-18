@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: bilan-prudence-sans-signal
+expected_outcome: |
+  Bilan court et tranché : régime Prudence avec DCA x0,5 et bascules chiffrées, jeu 65-72k maintenu (pas de résolution) avec probabilités réévaluées, pas de signal de range, recommandation DCA explicite signalant que le montant de base n'est pas fixé.
+context:
+  scaffold_script: place-files.sh

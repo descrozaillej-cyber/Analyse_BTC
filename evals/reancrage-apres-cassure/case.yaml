@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: reancrage-apres-cassure
+expected_outcome: |
+  Le jeu 65-72k est clos (C réalisé, proba initiale 25 %) et un nouveau jeu est construit autour de 62 650 $ ; régime Accumulation (MVRV 1,16 sous 1,234) donc DCA x1,5, avec l'avertissement que la zone basse ne marque pas le creux.
+context:
+  scaffold_script: place-files.sh

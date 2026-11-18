@@ -1,0 +1,92 @@
+{
+ "sma200_source": "CoinMarketCap get_crypto_technical_analysis id 1",
+ "mvrv_seuils": {
+  "p20": 1.234,
+  "p80": 2.219,
+  "source": "BTC_v5.md, Coin Metrics mai 2022 - mai 2026"
+ },
+ "situation": {
+  "montant_base_dca": "non fixé",
+  "fonds_de_securite": "non constitué",
+  "journal": "vide, aucun trade ouvert"
+ },
+ "notionnel_test_eur": 100,
+ "date": "2027-01-12",
+ "heure_releve": "07:00 UTC",
+ "releve_usd": 58950.0,
+ "releve_source": "Crypto.com bougie 1h BTC_USDT close 07:00 UTC, CoinGecko 58 930",
+ "releve_veille_usd": 60400.0,
+ "clotures_quotidiennes_usd_49_derniers_jours": [
+  62000.0,
+  63477.03,
+  63260.05,
+  62857.34,
+  61358.83,
+  60173.32,
+  61046.69,
+  61912.28,
+  63139.5,
+  63840.17,
+  62405.52,
+  61317.89,
+  60617.82,
+  60481.28,
+  62265.65,
+  63303.3,
+  63310.22,
+  62930.47,
+  61084.95,
+  60341.93,
+  61068.96,
+  61803.74,
+  63400.37,
+  63683.53,
+  62317.37,
+  61464.78,
+  60388.08,
+  60615.88,
+  62407.53,
+  63118.04,
+  63495.77,
+  62830.22,
+  60904.86,
+  60561.12,
+  60934.62,
+  61856.82,
+  63602.26,
+  63440.09,
+  62399.4,
+  61469.93,
+  60179.31,
+  60868.88,
+  62374.12,
+  63047.66,
+  63699.69,
+  62586.15,
+  60896.35,
+  60697.84,
+  58900.0
+ ],
+ "sma200": 61500.0,
+ "mvrv": {
+  "valeur": 1.12,
+  "date": "2027-01-11",
+  "source": "axeladlerjr.com"
+ },
+ "btc_eur": 53590.0,
+ "jeu_actif": {
+  "fichier": "2027-01-08_bilan.md",
+  "emis": "2027-01-08",
+  "echeance": "2027-01-15",
+  "A": "relevés 59-65k, 52 %",
+  "B": "relevé au-dessus de 65k, cible 67k, 25 %",
+  "C": "relevé sous 59k, cible 57k, 23 %"
+ },
+ "evenements": [
+  {
+   "evenement": "CPI décembre US",
+   "date": "2027-01-13 13:30 UTC",
+   "consensus": "+2,9 % a/a"
+  }
+ ]
+}

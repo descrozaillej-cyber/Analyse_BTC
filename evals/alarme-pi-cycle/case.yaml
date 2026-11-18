@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: alarme-pi-cycle
+expected_outcome: |
+  Le bilan détecte l'alarme Pi Cycle (MM111 au-dessus de 2 x MM350), recommande de vendre 25 % de la position en stablecoin avec rachat en Accumulation, crée la fiche Journal de vente sans toucher Positions avant confirmation, et dit que la règle peut manquer un sommet.
+context:
+  scaffold_script: place-files.sh

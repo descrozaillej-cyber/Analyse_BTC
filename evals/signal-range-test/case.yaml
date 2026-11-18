@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: signal-range-test
+expected_outcome: |
+  Signal de range détecté (efficiency ratio sous 0,25, clôture 58 900 $ sous la bande basse d'environ 59 246 $) : trade à blanc de 100 € ouvert en mode Test au prix BTC_EUR, stop à environ 2 647 $ sous l'entrée converti en euros, sortie au-dessus de la SMA20 d'environ 61 893 $, fiche Journal et ligne Positions décrites, aucun argent réel ni short.
+context:
+  scaffold_script: place-files.sh
